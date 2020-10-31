@@ -1,0 +1,2 @@
+nihao1 awk1 awk2 awk3
+nihao2 awk4 awk5 awk6
